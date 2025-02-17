@@ -1,0 +1,501 @@
+"customer_id";"name";"email";"phone";"location";"signup_date";"is_premium";"preferred_cuisine";"total_orders";"average_rating"
+200000;"Kamala Sandhu";"krishna50@example.net";"5943571327";"Adoni";"2021-07-28";"0";"biryani";78;3.11
+200001;"Nimrat Brar";"gopalgirik@example.net";"+914235787740";"Shivpuri";"2021-02-09";"1";"mexican";20;0.84
+200002;"Chasmum Ahuja";"psundaram@example.net";"3942931089";"Hospet";"2021-10-10";"1";"north indian";49;2.36
+200003;"Vasatika Goda";"eravi@example.net";"0409615277";"Sri Ganganagar";"2021-12-22";"1";"south indian";44;4.29
+200004;"Forum Acharya";"sharafpatrick@example.com";"+913970592972";"Morena";"2021-12-26";"0";"continental";84;0.96
+200005;"Yagnesh Chakrabarti";"ombarad@example.net";"09713580250";"Ujjain";"2021-10-11";"0";"north indian";20;4.35
+200006;"Pranav Prabhakar";"warrioryashica@example.com";"+917654757229";"Deoghar";"2021-11-07";"1";"north indian";81;2.56
+200007;"Sachi Shan";"mishrachavvi@example.net";"1307329062";"Sultan Pur Majra";"2021-04-05";"1";"fast food";43;0.61
+200008;"Rishi Sengupta";"hamsini91@example.com";"8771774672";"Deoghar";"2021-01-22";"0";"south indian";98;2.36
+200009;"Lakshit Banik";"raksha21@example.com";"03083816210";"Kota";"2021-06-02";"1";"italian";69;4.02
+200010;"Warinder Chowdhury";"baghyawati31@example.com";"08391913699";"Bhilwara";"2021-01-07";"1";"mexican";87;2.09
+200011;"Arunima Kumer";"ati28@example.net";"01015836843";"Ahmednagar";"2021-12-08";"0";"south indian";80;2.41
+200012;"Gaurika Kothari";"kapadiabalvan@example.net";"+918508446952";"Patna";"2021-12-14";"0";"fast food";4;4.61
+200013;"Vanya Oommen";"usaran@example.com";"+911485790114";"Miryalaguda";"2021-01-03";"1";"mexican";8;1.96
+200014;"Nakul Nagar";"udarshsundaram@example.org";"1067279959";"Katni";"2021-10-21";"1";"chinese";69;3.71
+200015;"Frado Nayak";"vmann@example.org";"+911879027743";"Kochi";"2021-08-30";"0";"north indian";2;2.25
+200016;"Mekhala Dani";"ayushsani@example.org";"9663678265";"Patiala";"2021-04-19";"1";"south indian";58;3.37
+200017;"Veer Vohra";"urishillanarain@example.net";"+911160705619";"Chapra";"2021-04-05";"1";"north indian";14;1.86
+200018;"Chaman Dey";"frederick52@example.com";"+912424803130";"Jehanabad";"2021-11-01";"1";"biryani";49;4.14
+200019;"Netra Rajagopal";"nishakashyap@example.com";"7407462558";"Anantapur";"2021-06-22";"0";"south indian";73;0.86
+200020;"Amrita Manda";"fiyaznagi@example.net";"03656543770";"Kollam";"2021-08-20";"1";"italian";4;4.68
+200021;"Rachana Kunda";"lakshmi87@example.net";"06031655158";"Kumbakonam";"2021-04-16";"0";"fast food";68;0.48
+200022;"Hardik Ranganathan";"quincyparikh@example.net";"00608874050";"Rohtak";"2021-12-04";"0";"south indian";56;3.06
+200023;"Watika Jayaraman";"rameshdaksh@example.org";"09537150833";"Saharanpur";"2021-04-25";"0";"mexican";12;3.98
+200024;"Noah Badami";"gaurang57@example.com";"+916915777763";"Bhubaneswar";"2021-04-25";"1";"north indian";48;1.17
+200025;"Anya Hayre";"karpeamruta@example.org";"+915357904329";"Gorakhpur";"2021-03-11";"0";"fast food";17;2.99
+200026;"Henry Nath";"vermasamaksh@example.com";"+919134221530";"Karnal";"2021-02-08";"1";"north indian";78;2.85
+200027;"Niharika Dyal";"ria69@example.org";"+917158214240";"Ajmer";"2021-03-15";"0";"south indian";48;4.16
+200028;"Kiaan Menon";"mandabenjamin@example.net";"+910682823713";"Siwan";"2021-01-31";"1";"north indian";58;1.37
+200029;"Zinal Jayaraman";"doctordaniel@example.com";"7077035023";"Malda";"2021-01-17";"1";"andhra";33;4.17
+200030;"Anthony Tata";"pillayaachal@example.org";"09155236974";"Jabalpur";"2021-03-04";"0";"biryani";39;3.14
+200031;"Kamya Pingle";"yloyal@example.net";"01055077311";"Tiruppur";"2021-03-28";"1";"continental";51;1.19
+200032;"Arjun Goda";"sanaya74@example.net";"4159844325";"Saharanpur";"2021-11-02";"1";"biryani";98;4.42
+200033;"Noah Khosla";"valahenry@example.net";"02113284463";"Latur";"2021-11-15";"1";"north indian";73;2.37
+200034;"Nisha Jhaveri";"oshahalder@example.com";"07429650691";"Jammu";"2021-05-23";"1";"biryani";48;1.19
+200035;"Jagrati Prasad";"kadepeter@example.com";"7903435948";"Firozabad";"2021-07-08";"1";"fast food";12;3.8
+200036;"Adweta Mody";"nigamudant@example.com";"05020216771";"Saharsa";"2021-10-09";"0";"biryani";30;3.46
+200037;"Darpan Kari";"vartyharsh@example.net";"+912624318304";"Amravati";"2021-11-19";"0";"chettinad";81;0.36
+200038;"Neelima Sarkar";"chahalfalak@example.org";"07322682026";"Ahmedabad";"2021-06-21";"1";"north indian";89;2.8
+200039;"Rushil Pandey";"issacdavid@example.net";"05690344886";"Tadepalligudem";"2021-11-29";"0";"north indian";39;2.54
+200040;"Upasna Sachar";"udyaticontractor@example.com";"02762758983";"Nellore";"2021-11-16";"1";"continental";4;3.93
+200041;"Bachittar Barad";"yaminitella@example.org";"+915343504092";"Mathura";"2021-07-11";"1";"mexican";48;4.21
+200042;"Samesh Babu";"sjaggi@example.net";"08703192134";"Kirari Suleman Nagar";"2021-11-14";"1";"fast food";77;4.09
+200043;"Eiravati Sawhney";"ekanshkapadia@example.org";"0335142918";"Bangalore";"2021-11-29";"0";"north indian";70;3.03
+200044;"Arunima Arora";"eborah@example.net";"+913418061586";"Nellore";"2021-02-14";"1";"chinese";20;0.17
+200045;"Lekha Sani";"udarshsekhon@example.com";"5547794088";"Gandhinagar";"2021-04-13";"0";"mexican";30;1.97
+200046;"Warhi Kant";"charyatin@example.net";"08206730775";"Silchar";"2021-09-12";"1";"mexican";86;2.43
+200047;"Kabir Saini";"tristan84@example.net";"08844641381";"Sikar";"2021-07-04";"0";"north indian";7;2.02
+200048;"Samarth Kala";"oscarshah@example.com";"03857957477";"Berhampore";"2021-04-18";"1";"mexican";65;1.84
+200049;"Rohan Loyal";"raksha99@example.net";"5689101384";"Raurkela Industrial Township";"2021-05-27";"0";"italian";95;3.23
+200050;"Lohit Dayal";"mwali@example.com";"4169985152";"Siliguri";"2021-12-11";"1";"andhra";45;2.21
+200051;"Vasatika Keer";"gerabhavani@example.net";"03741719656";"Bathinda";"2021-12-20";"0";"mexican";51;2.85
+200052;"Faris Tiwari";"zchanda@example.net";"8096716419";"Panchkula";"2021-08-03";"1";"chettinad";25;1.26
+200053;"Vidhi Master";"siya00@example.com";"7564140888";"Kakinada";"2021-05-16";"1";"mexican";41;4.16
+200054;"Saanvi Panchal";"anikawable@example.org";"+911441091285";"Jalgaon";"2021-04-22";"1";"north indian";7;3.85
+200055;"Sachi Chadha";"qsharma@example.net";"+911602415161";"Kumbakonam";"2021-06-27";"1";"north indian";34;3.25
+200056;"Dakshesh Gulati";"mohini63@example.org";"2683280654";"Fatehpur";"2021-07-24";"1";"fast food";33;4.21
+200057;"Bachittar Parmar";"jhalak93@example.org";"04164973960";"Kharagpur";"2021-08-26";"0";"italian";69;2.8
+200058;"Ishaan Dani";"balhaarchacko@example.net";"3879906261";"Saharsa";"2021-05-19";"1";"italian";51;3.64
+200059;"Karan Kuruvilla";"qyohannan@example.org";"1932397169";"Bongaigaon";"2021-08-21";"0";"north indian";5;2.5
+200060;"Umang Ravel";"samaksh95@example.org";"4709158018";"Dhanbad";"2021-02-20";"1";"mexican";41;2.39
+200061;"Nikita Raval";"lakshmikapur@example.com";"04911465146";"Bilaspur";"2021-03-01";"0";"chettinad";74;3.53
+200062;"Dhruv Cheema";"dalbirdhar@example.org";"04177105565";"Singrauli";"2021-09-15";"1";"north indian";18;2.82
+200063;"Joshua Bumb";"mchakrabarti@example.com";"+917747675670";"North Dumdum";"2021-07-06";"0";"chinese";86;2.72
+200064;"Ubika Cheema";"ojas54@example.org";"9595202141";"Bidar";"2021-11-24";"1";"biryani";32;2.31
+200065;"Nimrat Thakur";"hayredamini@example.net";"+911480733615";"Buxar";"2021-11-03";"1";"north indian";54;0.28
+200066;"Vasudha Tandon";"latasai@example.com";"+917138826932";"Chapra";"2021-01-05";"1";"biryani";25;4.45
+200067;"Nidhi Dora";"hema99@example.org";"+912743265260";"Gandhinagar";"2021-10-29";"0";"andhra";39;3.57
+200068;"Sanaya Narayan";"chhabranilima@example.org";"4883333201";"Delhi";"2021-08-19";"1";"chettinad";22;0.9
+200069;"Oliver Sarin";"samuel15@example.org";"05513491999";"Srikakulam";"2021-03-13";"1";"mexican";11;4.92
+200070;"Janya Sheth";"kai54@example.com";"+919884247165";"Sasaram";"2021-06-24";"1";"chinese";3;2.93
+200071;"Ishanvi Deo";"gsampath@example.net";"1670522908";"Udaipur";"2021-05-25";"1";"biryani";12;0.2
+200072;"Hitesh Nagi";"pratyush46@example.org";"06737711134";"Korba";"2021-01-05";"1";"chettinad";15;4.14
+200073;"Shivani Sandhu";"unni18@example.com";"3951853656";"Rajahmundry";"2021-09-07";"0";"chinese";25;1.1
+200074;"Yadavi Borra";"sathenihal@example.org";"08918155042";"Unnao";"2021-02-01";"1";"fast food";14;1.99
+200075;"Girish Peri";"arjun39@example.net";"2129158855";"Tiruppur";"2021-04-17";"1";"italian";34;0.14
+200076;"Liam Palan";"wriddhish61@example.net";"+911301287755";"Sikar";"2021-05-30";"1";"south indian";73;4.72
+200077;"Raghav Sahota";"damini91@example.org";"+911346770043";"Pali";"2021-10-03";"0";"mexican";2;2.97
+200078;"Reyansh Bhalla";"mdixit@example.net";"+912899753198";"Bikaner";"2021-08-10";"0";"andhra";82;0.8
+200079;"Eta Shukla";"dingarima@example.org";"+916251403087";"Naihati";"2021-10-12";"0";"fast food";17;3.14
+200080;"Avni Amble";"wadhwaayaan@example.org";"9902425285";"Khammam";"2021-04-08";"1";"fast food";1;2.01
+200081;"Maanas Tata";"lakshmiwalia@example.net";"3813802252";"Sikar";"2021-05-05";"0";"north indian";3;2.78
+200082;"Simon Tata";"siya81@example.net";"+912670500701";"Silchar";"2021-03-19";"0";"chettinad";90;0.67
+200083;"Isha Dugar";"vasatika82@example.com";"+911265776812";"Jodhpur";"2021-05-09";"0";"continental";6;3.17
+200084;"Sanaya Vasa";"bishakha40@example.org";"+912502375479";"Chinsurah";"2021-03-09";"0";"italian";77;4.38
+200085;"Vasana Gokhale";"krishnanmohammed@example.org";"6822813743";"Srinagar";"2021-11-26";"0";"north indian";64;3.43
+200086;"Krishna Bahl";"jatinkuruvilla@example.com";"+917824466575";"Alwar";"2021-08-31";"0";"italian";50;0.43
+200087;"Neelima Mahajan";"balanvasudha@example.net";"0978209084";"Barasat";"2021-03-06";"0";"andhra";23;2.77
+200088;"Bina Dash";"dmander@example.com";"5276039569";"Jalna";"2021-02-05";"1";"biryani";56;2.08
+200089;"Abdul Bansal";"ltoor@example.com";"+911402576936";"Ambarnath";"2021-12-24";"1";"andhra";87;3.54
+200090;"Amaira Doshi";"yashica65@example.com";"08920396202";"Shivpuri";"2021-01-20";"0";"italian";54;3.77
+200091;"Tanmayi Mistry";"jacobaggarwal@example.org";"+915010558470";"Ongole";"2021-01-09";"0";"continental";61;0.92
+200092;"Chasmum Raju";"bainsyashawini@example.com";"+915907805459";"Kalyan-Dombivli";"2021-01-10";"1";"chinese";75;0.47
+200093;"Liam Sood";"harshkapoor@example.com";"+915239904021";"Bhatpara";"2021-08-20";"1";"chettinad";52;2.21
+200094;"Diya Krishna";"qjohal@example.net";"04375206263";"Shimla";"2021-08-13";"1";"biryani";44;3.46
+200095;"Gayathri Tailor";"bandiekapad@example.com";"0996938353";"Tirupati";"2021-04-07";"1";"north indian";83;3.13
+200096;"Laban Edwin";"eganesh@example.net";"01283575841";"Rohtak";"2021-04-19";"1";"biryani";76;1.5
+200097;"Reva Raj";"cloyal@example.org";"03722302673";"Bathinda";"2021-05-17";"1";"biryani";69;1.8
+200098;"Om Vaidya";"shravya07@example.com";"03434201260";"Kanpur";"2021-05-12";"0";"north indian";72;1.38
+200099;"Suhani Bains";"niharika84@example.org";"+916627428453";"Mumbai";"2021-02-25";"0";"italian";78;0.44
+200100;"Veda Choudhary";"xatwal@example.net";"7485882195";"Kanpur";"2021-10-18";"1";"north indian";93;0.85
+200101;"Upasna Raju";"fiyaz41@example.net";"1096852909";"Bhimavaram";"2021-03-13";"0";"mexican";87;2.92
+200102;"Gunbir Narasimhan";"finn58@example.com";"+911980459034";"Navi Mumbai";"2021-11-07";"0";"andhra";57;2.27
+200103;"Indrajit Venkatesh";"veda10@example.net";"+916879142404";"Vasai-Virar";"2021-06-20";"0";"chinese";59;0.96
+200104;"Nirja Varghese";"riyaamble@example.net";"2059760734";"Ujjain";"2021-03-09";"0";"south indian";76;2.01
+200105;"Harita Chhabra";"asavant@example.com";"04029425602";"Khora ";"2021-03-12";"0";"mexican";55;3.42
+200106;"Abha Wable";"parth31@example.net";"+915636500445";"Belgaum";"2021-07-30";"1";"chinese";88;4.75
+200107;"Abha Srivastava";"onkarvohra@example.org";"+918873315067";"Panipat";"2021-08-04";"0";"south indian";4;2.63
+200108;"Chaitanya Pandit";"ekapad33@example.net";"4076841756";"Dindigul";"2021-10-18";"0";"biryani";30;1.71
+200109;"Sathvik Chada";"yborde@example.org";"+915512138179";"Alwar";"2021-12-22";"1";"north indian";75;3.68
+200110;"Saksham Srivastava";"opalla@example.net";"06678607160";"Thane";"2021-12-09";"1";"continental";76;4.62
+200111;"Devika Narasimhan";"palanira@example.org";"04421659408";"Nadiad";"2021-10-30";"1";"chinese";52;4.33
+200112;"Arjun Sinha";"inayasharma@example.org";"+913512058574";"Tenali";"2021-01-26";"0";"south indian";54;0.72
+200113;"Tanay Jain";"kevin79@example.net";"+915928371994";"Agartala";"2021-04-16";"1";"andhra";45;3.48
+200114;"Anya Wable";"udeshmukh@example.org";"02644729232";"Anantapur";"2021-08-16";"0";"south indian";19;3.12
+200115;"Hemang Sampath";"chasmum22@example.net";"1346182040";"Bihar Sharif";"2021-12-23";"0";"south indian";36;1.21
+200116;"Pranit Choudhry";"vrinda23@example.org";"07413949109";"Khandwa";"2021-10-25";"1";"continental";20;0.82
+200117;"Jason Varkey";"deshpandeelijah@example.net";"+913901869399";"Ambattur";"2021-01-13";"1";"south indian";5;4.4
+200118;"Ekansh Dass";"nathanielkaran@example.com";"4658201892";"Saharanpur";"2021-04-11";"0";"north indian";4;0.66
+200119;"Madhavi Warrior";"nikitaravel@example.org";"+918702409308";"Vadodara";"2021-05-25";"1";"continental";8;3.13
+200120;"Zayyan Kamdar";"varugheseria@example.org";"+919925836776";"Avadi";"2021-03-18";"0";"biryani";50;0.16
+200121;"Rohan Dhar";"ambleladli@example.org";"0290354586";"Nagercoil";"2021-02-04";"1";"fast food";31;3.32
+200122;"Christopher Mukhopadhyay";"balandayita@example.net";"02392423191";"Thoothukudi";"2021-03-18";"0";"fast food";69;4.16
+200123;"Ladli Comar";"gagannagy@example.com";"+916686178617";"Dharmavaram";"2021-03-30";"0";"mexican";24;2.19
+200124;"Arunima Bhattacharyya";"guneetsridhar@example.net";"03501547208";"Bhimavaram";"2021-10-16";"1";"north indian";59;3.28
+200125;"Qushi Atwal";"zashilwali@example.com";"5591533903";"Rajpur Sonarpur";"2021-12-02";"0";"biryani";10;0.57
+200126;"Gayathri Yogi";"petershetty@example.com";"+917463261263";"Vadodara";"2021-06-12";"1";"italian";68;4.99
+200127;"Ronith Mani";"qadim12@example.net";"+911539019795";"Guna";"2021-09-29";"1";"biryani";43;2.6
+200128;"Lohit Khurana";"manan32@example.net";"2131075845";"Mumbai";"2021-01-18";"1";"fast food";71;2.32
+200129;"Upasna Sathe";"barkhaminhas@example.com";"9748828646";"New Delhi";"2021-10-19";"0";"continental";43;1.15
+200130;"Shravya Prabhu";"vinaya83@example.net";"5117643099";"Tirupati";"2021-11-09";"1";"chinese";90;3.88
+200131;"Zayan Om";"guneet87@example.net";"+917555961765";"Pallavaram";"2021-01-27";"1";"fast food";49;4.94
+200132;"Anvi Shankar";"robert23@example.com";"+913752044412";"Begusarai";"2021-03-20";"0";"north indian";49;4.16
+200133;"Onveer Sarraf";"balhaarluthra@example.com";"4042590887";"Satara";"2021-03-17";"1";"fast food";95;4.2
+200134;"Aarnav Samra";"mallickpriya@example.com";"05556514203";"Sasaram";"2021-09-25";"0";"mexican";50;4.56
+200135;"Azaan Sani";"mkota@example.net";"05127440922";"Jaipur";"2021-03-08";"0";"andhra";69;3.99
+200136;"Manthan Warrior";"dkaur@example.com";"8677236003";"Bhatpara";"2021-09-02";"1";"fast food";19;2.45
+200137;"Bhavya Chaudry";"mananbhatnagar@example.org";"0317673613";"Kamarhati";"2021-08-25";"0";"italian";9;0.86
+200138;"Qarin Parikh";"jackson52@example.net";"00902482491";"Chittoor";"2021-02-01";"0";"italian";100;2.38
+200139;"Maanas Chandran";"dasschandresh@example.com";"06081963459";"Ahmedabad";"2021-12-29";"1";"andhra";91;4.16
+200140;"Owen Lanka";"lchopra@example.net";"+913419896426";"Haridwar";"2021-01-09";"0";"chinese";36;0.27
+200141;"Shaurya Barad";"upal@example.com";"+915747284860";"Raurkela Industrial Township";"2021-06-01";"0";"biryani";37;0.16
+200142;"Chandani Pai";"falan98@example.net";"+916625647978";"Ujjain";"2021-09-12";"1";"fast food";15;3.86
+200143;"Naveen Sibal";"madhavi07@example.org";"+914591857414";"Khandwa";"2021-12-03";"1";"italian";60;4.96
+200144;"Qasim Tripathi";"eta76@example.org";"5622277449";"Patna";"2021-12-20";"0";"continental";94;0.81
+200145;"Alexander Mitter";"sakshamprasad@example.com";"03668158715";"Bettiah";"2021-08-21";"0";"north indian";67;3.69
+200146;"Kiaan Bains";"dbawa@example.net";"07652740986";"Hospet";"2021-09-25";"0";"continental";81;3.63
+200147;"Wridesh Lal";"basakfarhan@example.net";"06013458310";"Raipur";"2021-02-17";"0";"mexican";98;3.09
+200148;"Pallavi Krishnamurthy";"manya56@example.org";"00498951746";"Ramgarh";"2021-04-18";"1";"south indian";17;2.2
+200149;"Vedika Wali";"yuvrajvarma@example.com";"02694386574";"Kollam";"2021-03-13";"0";"andhra";47;0.19
+200150;"Nilima Majumdar";"vchar@example.net";"5214177675";"Ballia";"2021-11-23";"1";"mexican";88;1.83
+200151;"Yahvi Mohan";"ranganathananmol@example.com";"7643910934";"Kadapa";"2021-11-14";"1";"chettinad";82;1.65
+200152;"Chaaya Bali";"lipika61@example.org";"+912067565385";"Amaravati";"2021-01-08";"1";"italian";12;4.26
+200153;"Vincent Borde";"pnarang@example.org";"7651636989";"Thane";"2021-06-29";"0";"italian";5;0.77
+200154;"Orinder Barad";"pallaneha@example.net";"+917989385284";"Morbi";"2021-09-19";"0";"continental";23;0.25
+200155;"Darpan Sahota";"bdevi@example.com";"+918455743817";"Warangal";"2021-06-22";"0";"north indian";84;2.69
+200156;"Darika Bhatt";"jguha@example.net";"+910867617111";"Solapur";"2021-05-10";"0";"andhra";20;1.2
+200157;"Vyanjana Chanda";"deshpandebhanumati@example.net";"+918952907858";"Visakhapatnam";"2021-03-04";"1";"fast food";87;1.69
+200158;"Rehaan Grewal";"goelyashvi@example.com";"7633017625";"Shivpuri";"2021-09-26";"1";"andhra";88;3.54
+200159;"Ronith Das";"wridesh36@example.org";"9826862112";"Rourkela";"2021-05-07";"0";"mexican";19;4.29
+200160;"Nakul Kala";"bandilavanya@example.org";"09050256380";"Bharatpur";"2021-03-10";"0";"north indian";43;3.29
+200161;"Sneha Uppal";"saanvi52@example.org";"+918668855580";"Bhubaneswar";"2021-04-16";"1";"biryani";3;4.89
+200162;"Frederick Gala";"wyattnair@example.com";"5427993154";"Maheshtala";"2021-11-28";"1";"south indian";53;0.61
+200163;"Ojas Reddy";"nsaha@example.com";"04034617600";"Avadi";"2021-07-18";"1";"biryani";71;1.39
+200164;"Krish Venkatesh";"liam06@example.com";"06277191356";"Sasaram";"2021-05-19";"0";"fast food";72;1.54
+200165;"Guneet Sahni";"aarushdave@example.com";"9941225695";"Jamnagar";"2021-04-23";"0";"north indian";60;2.31
+200166;"Arunima Brar";"andrarishi@example.com";"00772447062";"Chinsurah";"2021-10-23";"1";"mexican";39;0.3
+200167;"Andrew Pillai";"ojasvi41@example.org";"2384864668";"Kumbakonam";"2021-07-14";"0";"mexican";14;1.62
+200168;"Yochana Mohanty";"dateabhiram@example.net";"+914456099451";"South Dumdum";"2021-09-11";"1";"chinese";53;2.46
+200169;"Chatresh Singhal";"chaaya15@example.org";"09484779027";"Machilipatnam";"2021-03-22";"0";"south indian";16;0.38
+200170;"Kritika Deshpande";"chameli18@example.com";"06923115865";"Rajkot";"2021-05-26";"0";"continental";32;3.26
+200171;"Shaurya Bhandari";"laban70@example.net";"+911742985288";"Jaipur";"2021-08-22";"0";"south indian";42;3.65
+200172;"Faras Varty";"dhingramichael@example.net";"+914464948141";"Burhanpur";"2021-10-29";"1";"continental";4;3.72
+200173;"Janaki Lad";"rmandal@example.org";"+919029150289";"Rajahmundry";"2021-12-05";"1";"chettinad";62;2.0
+200174;"Upadhriti Sur";"desaizilmil@example.org";"7104642214";"Chapra";"2021-07-12";"0";"north indian";48;0.5
+200175;"Ekansh Bhakta";"gautami72@example.org";"1517887488";"Singrauli";"2021-06-20";"1";"mexican";19;2.02
+200176;"Abeer Sekhon";"balvanpillay@example.com";"06356949534";"Guna";"2021-08-04";"0";"chinese";73;3.87
+200177;"Jeet Balakrishnan";"kaulhema@example.net";"3594894502";"Bettiah";"2021-02-16";"0";"italian";92;4.74
+200178;"Manbir Sarkar";"darmadhavi@example.org";"4711023892";"Baranagar";"2021-05-13";"0";"chettinad";74;1.74
+200179;"Niharika Halder";"atithaman@example.net";"09903934115";"Bardhaman";"2021-11-04";"1";"fast food";52;4.15
+200180;"Yagnesh Doshi";"osha56@example.net";"07172441700";"Bareilly";"2021-07-25";"1";"italian";19;1.92
+200181;"Hemal Dasgupta";"omyaravi@example.com";"+917440123072";"Anantapur";"2021-11-20";"0";"south indian";94;4.09
+200182;"Samuel Biswas";"darafaraj@example.org";"02821022950";"Bhusawal";"2021-04-24";"1";"biryani";18;1.48
+200183;"Garima Gala";"znagarajan@example.org";"02552352887";"Jalgaon";"2021-03-28";"1";"mexican";72;4.94
+200184;"Lekha Manda";"gabrielvirk@example.net";"06121117271";"Raebareli";"2021-05-20";"1";"biryani";77;1.11
+200185;"Chaitaly Garde";"kalitaavi@example.org";"05281827521";"Surat";"2021-10-01";"0";"continental";68;0.29
+200186;"Amol Aggarwal";"elijahbains@example.org";"00646349016";"Barasat";"2021-08-04";"1";"italian";78;1.3
+200187;"Harish Shukla";"rpatel@example.net";"9854011235";"Mathura";"2021-06-11";"0";"biryani";32;3.29
+200188;"Yoshita Padmanabhan";"chatresh12@example.com";"02498662024";"Unnao";"2021-02-28";"0";"fast food";82;2.45
+200189;"Lakshit Dayal";"bahrijanani@example.com";"+912168031502";"Jorhat";"2021-05-31";"0";"continental";55;3.99
+200190;"Kalpit Doctor";"calebtrivedi@example.com";"03048700514";"Bettiah";"2021-02-07";"0";"north indian";72;0.22
+200191;"Wahab Manda";"arin72@example.net";"+917551509472";"Ghaziabad";"2021-11-30";"1";"continental";55;1.12
+200192;"Sai Sankar";"cbava@example.com";"06532971446";"Alappuzha";"2021-08-10";"0";"italian";93;2.69
+200193;"Damini Babu";"qabil55@example.org";"7452837425";"Purnia";"2021-04-20";"1";"continental";56;1.32
+200194;"Diya Kulkarni";"hemani34@example.com";"08770010302";"Miryalaguda";"2021-10-17";"1";"mexican";4;2.62
+200195;"Manbir Borah";"sundaramdominic@example.org";"+919473170355";"Fatehpur";"2021-08-08";"0";"mexican";78;1.21
+200196;"Meera Dey";"araj@example.com";"+918026833100";"Junagadh";"2021-04-09";"0";"italian";95;3.24
+200197;"Girish Karpe";"suriansh@example.org";"7185694936";"Tadipatri";"2021-04-28";"1";"chettinad";92;3.25
+200198;"Lopa Brar";"xbhakta@example.com";"0605751456";"Bardhaman";"2021-07-12";"1";"continental";88;2.66
+200199;"Akshay Bhardwaj";"mohinivarkey@example.org";"0608577119";"Haridwar";"2021-07-07";"1";"continental";72;1.88
+200200;"Nikita Jayaraman";"cdas@example.net";"04260791093";"Phusro";"2021-05-29";"0";"chinese";11;0.57
+200201;"Owen Swaminathan";"wamble@example.org";"09186116283";"Guwahati";"2021-01-09";"1";"fast food";64;2.34
+200202;"Siddharth Patel";"kantagastya@example.com";"9465794408";"Tumkur";"2021-08-24";"1";"mexican";17;2.81
+200203;"Matthew Varty";"kdasgupta@example.net";"00146838611";"Gwalior";"2021-10-29";"0";"south indian";45;3.46
+200204;"Girik Peri";"janujashanker@example.com";"1096253773";"Tezpur";"2021-01-09";"1";"chinese";11;4.45
+200205;"Ekiya Karnik";"george24@example.org";"+912310140830";"Baranagar";"2021-10-24";"1";"chinese";59;3.71
+200206;"Kala Dave";"vedika00@example.org";"00043875667";"Gandhidham";"2021-04-20";"0";"north indian";27;1.8
+200207;"Tristan Zacharia";"nirja08@example.net";"03005319110";"Vellore";"2021-04-19";"0";"mexican";77;3.94
+200208;"Sudiksha Gaba";"xmodi@example.net";"6209149532";"Noida";"2021-09-24";"1";"mexican";32;0.86
+200209;"Ayushman Chhabra";"fradowali@example.org";"+912043152103";"Pondicherry";"2021-01-30";"0";"chinese";61;4.76
+200210;"Bhanumati Shetty";"fahluwalia@example.org";"+919184837493";"Bidar";"2021-03-17";"0";"continental";20;1.82
+200211;"Gaurangi Soni";"nehasuresh@example.org";"+916026456990";"Sambhal";"2021-10-30";"1";"south indian";40;3.95
+200212;"Inaya Prakash";"charles58@example.com";"+916916867867";"Bikaner";"2021-01-26";"0";"chinese";29;1.02
+200213;"Gopal Tella";"pushtidivan@example.net";"05153327843";"Rampur";"2021-05-22";"0";"continental";38;0.58
+200214;"Chameli Natarajan";"horashivani@example.net";"6148432864";"Udupi";"2021-07-22";"0";"biryani";52;1.55
+200215;"Dayamai Dora";"wgaba@example.org";"01979528896";"Serampore";"2021-07-18";"0";"fast food";85;2.01
+200216;"Kiaan Aggarwal";"qvora@example.net";"1572644541";"Thiruvananthapuram";"2021-12-16";"0";"south indian";83;2.49
+200217;"Vansha Bawa";"xbhatti@example.com";"03376141172";"Bathinda";"2021-11-03";"0";"italian";69;3.47
+200218;"Irya Sen";"chaudryedhitha@example.net";"03390795698";"Nagaon";"2021-04-13";"0";"mexican";32;1.43
+200219;"Aarav Dayal";"ibatta@example.com";"+918728369783";"Pudukkottai";"2021-10-31";"1";"biryani";16;4.39
+200220;"Utkarsh Bhatti";"radhika34@example.net";"6501004812";"Ujjain";"2021-12-05";"0";"andhra";44;0.79
+200221;"Vedika Patil";"yadavi00@example.org";"1597288065";"Hospet";"2021-04-09";"0";"north indian";61;2.52
+200222;"Vasudha Choudhury";"gaurika75@example.net";"+915939899187";"Siliguri";"2021-07-16";"0";"north indian";47;0.58
+200223;"Sara Basu";"ghoshpatrick@example.com";"6368102068";"Bhind";"2021-01-31";"0";"italian";99;0.22
+200224;"Jhalak Barad";"ranbir50@example.net";"05139409401";"North Dumdum";"2021-12-24";"1";"chinese";37;3.39
+200225;"Lopa Kanda";"lsarin@example.net";"+914963052061";"Eluru";"2021-11-06";"0";"italian";46;0.7
+200226;"Qadim Kant";"mohammed56@example.com";"+912191689240";"Thrissur";"2021-08-12";"0";"chinese";32;1.66
+200227;"Isaiah Kaul";"yjoshi@example.com";"+914683563368";"Karawal Nagar";"2021-09-16";"1";"biryani";58;2.07
+200228;"Daksha Kaur";"chhabramax@example.net";"+917194241413";"Proddatur";"2021-09-25";"1";"fast food";52;1.03
+200229;"Raagini Sachdev";"zmisra@example.net";"6907911019";"Bhalswa Jahangir Pur";"2021-06-19";"1";"fast food";56;0.58
+200230;"Robert Kapur";"kamdarudant@example.org";"03259534520";"Serampore";"2021-03-13";"0";"chinese";55;2.77
+200231;"Sai Thaman";"csalvi@example.net";"05918939947";"Srikakulam";"2021-05-05";"1";"andhra";92;3.24
+200232;"Maanas Sankaran";"karnikdavid@example.com";"+914378819074";"Bangalore";"2021-05-24";"1";"chinese";31;4.42
+200233;"Udyati Srinivas";"yutika56@example.org";"+919141236322";"Kurnool";"2021-06-29";"0";"chinese";8;4.7
+200234;"Chameli Deo";"samarsharma@example.com";"8504756889";"Khora ";"2021-11-02";"1";"continental";31;1.37
+200235;"Ekantika Gola";"bbora@example.org";"7547796714";"Gudivada";"2021-12-05";"0";"fast food";29;3.17
+200236;"Saanvi Shetty";"wmand@example.org";"5215594546";"Giridih";"2021-06-09";"0";"mexican";15;2.67
+200237;"Kabir Pathak";"dchaudry@example.org";"00237926146";"Udupi";"2021-03-13";"0";"chinese";30;0.6
+200238;"Chandresh Arora";"lsavant@example.org";"05869459347";"Karaikudi";"2021-04-20";"0";"mexican";29;1.46
+200239;"Ronith Vala";"koshyagastya@example.net";"05739627964";"Karaikudi";"2021-04-01";"0";"north indian";57;2.24
+200240;"Idika Patla";"sachidalal@example.org";"2545612505";"Ramgarh";"2021-07-28";"0";"chinese";81;0.69
+200241;"Lohit Dhaliwal";"vedika89@example.org";"00263548797";"Kumbakonam";"2021-01-02";"0";"chinese";67;1.82
+200242;"Chatresh Wali";"pdave@example.net";"+917458908253";"Loni";"2021-02-03";"0";"continental";13;2.19
+200243;"Lila Comar";"poojadhar@example.net";"06151762103";"Junagadh";"2021-08-05";"1";"fast food";39;3.05
+200244;"Ekavir Cheema";"qabil99@example.net";"+910870072541";"Bidar";"2021-02-20";"0";"north indian";55;0.36
+200245;"Amruta Dugar";"vbuch@example.com";"+914178567763";"Bhubaneswar";"2021-01-06";"0";"mexican";83;0.17
+200246;"Yochana Loyal";"qpillai@example.com";"9153903904";"Malegaon";"2021-06-29";"1";"south indian";18;2.6
+200247;"Nicholas Manda";"xhari@example.org";"02077914135";"Ratlam";"2021-02-06";"0";"mexican";1;3.47
+200248;"Pavani Morar";"dakshesh37@example.net";"+915557591392";"Rampur";"2021-05-03";"0";"chettinad";18;4.56
+200249;"Finn Gole";"lucky86@example.org";"+910764750456";"Kollam";"2021-06-13";"0";"continental";57;1.24
+200250;"Warhi Divan";"hansekanta@example.net";"03640649891";"Visakhapatnam";"2021-04-30";"1";"biryani";69;1.55
+200251;"Qadim Parmar";"dmagar@example.net";"6119798516";"Hajipur";"2021-10-19";"0";"italian";11;3.46
+200252;"Hitesh Dar";"samarchaudhary@example.net";"2811203602";"Siwan";"2021-08-16";"1";"andhra";24;4.74
+200253;"Gautam Kashyap";"anirudh93@example.com";"+915865295217";"Srikakulam";"2021-08-24";"1";"italian";52;2.47
+200254;"Vrinda Dasgupta";"stara@example.org";"0438731958";"Karnal";"2021-05-28";"0";"south indian";56;3.11
+200255;"Ekaraj Dara";"aachal38@example.org";"+912723252582";"Kavali";"2021-10-16";"0";"italian";30;0.53
+200256;"Urmi Pingle";"vrishtiahluwalia@example.org";"04044854994";"Maheshtala";"2021-04-17";"0";"chinese";9;1.61
+200257;"Gayathri Ahuja";"abhakara@example.org";"+912791905078";"Bijapur";"2021-12-25";"0";"fast food";80;4.18
+200258;"Brinda Nayar";"rajanjanaki@example.org";"7412956689";"Imphal";"2021-07-11";"1";"north indian";70;3.64
+200259;"Faqid Oommen";"iyergabriel@example.net";"9261054256";"Aligarh";"2021-03-10";"0";"mexican";8;3.21
+200260;"Advika Anand";"esaini@example.com";"05896618522";"Thrissur";"2021-09-01";"1";"north indian";34;1.31
+200261;"Unnati Dyal";"murthythomas@example.org";"04238709693";"Purnia";"2021-07-05";"0";"italian";86;2.7
+200262;"Devansh Sagar";"aashiahuja@example.org";"08433218341";"Srinagar";"2021-12-24";"0";"south indian";76;3.03
+200263;"Kritika Bir";"harsh38@example.org";"01931668641";"Munger";"2021-08-28";"1";"north indian";4;2.96
+200264;"Janya Sanghvi";"chaman19@example.org";"2581090348";"Vijayawada";"2021-01-15";"1";"continental";86;3.24
+200265;"Charvi Apte";"echauhan@example.com";"+917449600394";"Nandyal";"2021-02-26";"0";"continental";6;0.19
+200266;"Pahal Babu";"ybhatt@example.net";"04428529454";"Ozhukarai";"2021-02-16";"1";"biryani";88;1.4
+200267;"Dipta D’Alia";"logan05@example.org";"+919180855618";"Jabalpur";"2021-01-01";"0";"chettinad";24;4.21
+200268;"Damini Balakrishnan";"ysunder@example.org";"8593785998";"Korba";"2021-01-14";"0";"mexican";41;4.22
+200269;"Anita Bhavsar";"fdate@example.com";"0999095374";"Barasat";"2021-10-25";"0";"biryani";61;1.76
+200270;"Advik Kakar";"wpalla@example.org";"6587218092";"Kozhikode";"2021-10-16";"1";"fast food";100;0.85
+200271;"Jatin Rajagopal";"zayan36@example.com";"06399359225";"Mira-Bhayandar";"2021-08-08";"1";"chettinad";95;3.21
+200272;"Lakshit Misra";"yochana10@example.com";"2451257220";"Sultan Pur Majra";"2021-12-10";"0";"south indian";4;1.56
+200273;"Unnati Balasubramanian";"ypalla@example.com";"08734392115";"Uluberia";"2021-12-09";"0";"north indian";2;3.5
+200274;"Ojas Mani";"qoza@example.com";"+911188133252";"Noida";"2021-06-26";"0";"biryani";100;1.33
+200275;"Vasatika Butala";"warda92@example.net";"03548387640";"Nangloi Jat";"2021-08-14";"1";"north indian";76;1.44
+200276;"Ekaraj Dass";"alexander81@example.com";"08262793611";"Gwalior";"2021-11-17";"0";"biryani";3;0.63
+200277;"Jeet Borah";"tchhabra@example.net";"+916181748782";"Ahmednagar";"2021-11-09";"1";"chinese";65;3.95
+200278;"Agastya Choudhry";"kai39@example.com";"0147185790";"Bhilwara";"2021-10-04";"0";"south indian";100;2.2
+200279;"Krishna Kanda";"jeet40@example.org";"6422286323";"Madanapalle";"2021-06-01";"0";"chinese";87;4.42
+200280;"Falan Lata";"ryan59@example.com";"+919057954330";"Kirari Suleman Nagar";"2021-06-04";"0";"andhra";56;0.34
+200281;"Chanchal Khatri";"prishathakur@example.com";"+917282255677";"Ambattur";"2021-04-07";"1";"mexican";44;1.22
+200282;"Alka Iyengar";"siddharth56@example.com";"07333179646";"Sasaram";"2021-04-08";"0";"italian";17;4.02
+200283;"Girik Deep";"balakrishnanrobert@example.net";"+919267349241";"Belgaum";"2021-11-09";"1";"chettinad";12;2.84
+200284;"Jyoti Sood";"shivanichoudhary@example.com";"4023360261";"Munger";"2021-04-21";"0";"north indian";96;0.75
+200285;"Robert Sood";"urishilla00@example.org";"5262188280";"Chennai";"2021-05-14";"1";"fast food";51;3.67
+200286;"Ladli Sharma";"mtara@example.net";"09674982432";"Gorakhpur";"2021-03-10";"1";"fast food";89;4.74
+200287;"Yahvi Chopra";"abdul29@example.org";"9746329081";"Tiruppur";"2021-12-10";"0";"continental";76;4.1
+200288;"Hitesh Dewan";"tristansuri@example.net";"9400338224";"Dewas";"2021-08-10";"0";"biryani";49;2.15
+200289;"Vrishti Kothari";"garghemangini@example.org";"0351080250";"Parbhani";"2021-08-21";"1";"chinese";54;1.53
+200290;"Vidhi Kalita";"raysanya@example.org";"+911605279586";"Malegaon";"2021-12-13";"0";"italian";33;0.79
+200291;"Ekavir Kumar";"anika86@example.com";"9504206751";"Aligarh";"2021-08-22";"0";"andhra";83;3.29
+200292;"Yash Patla";"wakeeta41@example.org";"03460860099";"Begusarai";"2021-05-26";"0";"italian";26;2.41
+200293;"Warda Minhas";"auroraupasna@example.com";"03987656981";"Sirsa";"2021-08-24";"1";"north indian";96;0.9
+200294;"Quincy Sarma";"butalaindrajit@example.org";"06100089668";"Sangli-Miraj & Kupwad";"2021-01-20";"1";"continental";98;3.09
+200295;"Mugdha Tara";"imaran09@example.net";"05773800997";"Mysore";"2021-12-08";"1";"chinese";93;4.79
+200296;"Nathan Madan";"nicholasbal@example.org";"5696665867";"Malda";"2021-05-04";"0";"continental";49;1.67
+200297;"Mitesh Bhatia";"pallanidra@example.net";"+917666972067";"Bijapur";"2021-10-03";"1";"andhra";40;0.59
+200298;"Chandresh Goyal";"ibarad@example.com";"+913602359227";"Jorhat";"2021-05-06";"0";"andhra";2;1.27
+200299;"Bhanumati Palla";"chanddivya@example.net";"01877787010";"Kochi";"2021-09-10";"0";"andhra";10;3.19
+200300;"Wriddhish Sur";"ranveer54@example.net";"05313696183";"Faridabad";"2021-01-10";"1";"italian";91;1.97
+200301;"Raagini Raj";"ranganathanyamini@example.com";"4286633270";"Patna";"2021-11-29";"0";"andhra";68;4.01
+200302;"Nidra Behl";"qasimbalasubramanian@example.net";"+914496740829";"Tiruchirappalli";"2021-12-07";"0";"continental";15;4.1
+200303;"Geetika Bhatnagar";"anamika95@example.net";"9450500720";"Dehradun";"2021-01-13";"0";"fast food";62;1.33
+200304;"Hiral Ramachandran";"labanmadan@example.net";"1492478881";"Sasaram";"2021-05-14";"0";"fast food";64;2.56
+200305;"Rajata Baral";"mangalzayan@example.net";"6254419459";"Bidar";"2021-06-09";"0";"italian";100;1.53
+200306;"Yatin Solanki";"fsrivastava@example.com";"04069503087";"Rajkot";"2021-02-27";"0";"continental";45;3.92
+200307;"Ria Srivastava";"alkasarin@example.com";"04579046991";"Pallavaram";"2021-11-10";"0";"continental";94;3.8
+200308;"Zaitra Krishnan";"narainmason@example.net";"3359802657";"Mira-Bhayandar";"2021-03-09";"1";"chinese";94;0.77
+200309;"Arya Bera";"mohanrachana@example.org";"07915464676";"Indore";"2021-09-14";"1";"continental";88;2.62
+200310;"Xalak Ramanathan";"raagini48@example.org";"+915445819956";"Proddatur";"2021-04-12";"0";"north indian";87;1.86
+200311;"Caleb Palla";"xbalasubramanian@example.net";"+917730433050";"Aizawl";"2021-07-09";"0";"chinese";60;3.2
+200312;"Krisha Kaul";"yahvi47@example.org";"+917738035784";"Bokaro";"2021-04-25";"1";"fast food";56;4.82
+200313;"Benjamin Sethi";"lankaaishani@example.com";"4645726697";"Tiruppur";"2021-07-23";"1";"south indian";84;2.92
+200314;"Veda Boase";"rajadamini@example.net";"+911939301456";"Amroha";"2021-06-04";"0";"south indian";65;0.88
+200315;"Theodore Sane";"rajanmugdha@example.com";"1662346861";"Salem";"2021-06-21";"1";"continental";66;4.5
+200316;"Lakshit Keer";"dalaja73@example.com";"05192735055";"Jalandhar";"2021-04-13";"1";"andhra";8;0.92
+200317;"Devika Patel";"imishra@example.com";"+914117896482";"Aligarh";"2021-08-19";"0";"biryani";3;4.19
+200318;"Tanish Iyer";"ektakrishnamurthy@example.org";"+918861192350";"Rampur";"2021-07-29";"0";"italian";75;1.2
+200319;"Ishaan Chowdhury";"deosara@example.org";"8480527222";"Arrah";"2021-05-19";"1";"south indian";57;3.22
+200320;"Dakshesh Venkatesh";"jyotisur@example.com";"+910963141385";"Thane";"2021-12-03";"0";"chinese";87;1.38
+200321;"Wyatt Srinivasan";"chaitanya47@example.com";"09325590199";"Bhind";"2021-01-11";"1";"south indian";7;0.49
+200322;"Tripti Brahmbhatt";"viraj01@example.com";"0073251216";"Nadiad";"2021-09-16";"1";"mexican";36;1.57
+200323;"Samaksh Parekh";"kiaan76@example.com";"9018414352";"Kochi";"2021-03-14";"1";"italian";40;2.05
+200324;"Hiral Sridhar";"mchand@example.net";"+910630051344";"Vadodara";"2021-01-18";"1";"south indian";10;0.98
+200325;"Bina Sidhu";"sanivasudha@example.net";"+918672537007";"Bilaspur";"2021-08-26";"0";"fast food";43;2.94
+200326;"Raksha Sibal";"jeremiahsarna@example.org";"7579585075";"Silchar";"2021-12-06";"0";"north indian";30;0.73
+200327;"Rajata Thaman";"yatan14@example.org";"0715515296";"Khora ";"2021-10-22";"1";"fast food";80;3.87
+200328;"Ronith Varughese";"ranbir84@example.net";"+916723922183";"Kolkata";"2021-11-21";"0";"chinese";48;2.27
+200329;"Idika Arora";"xmalhotra@example.net";"6532114160";"Anantapur";"2021-09-08";"1";"mexican";7;4.62
+200330;"Patrick Mahal";"rajladli@example.net";"6706209903";"Kalyan-Dombivli";"2021-06-20";"1";"chinese";85;0.11
+200331;"Jeremiah Ganguly";"jagvi13@example.org";"01518756040";"Nagaon";"2021-11-16";"0";"andhra";69;0.98
+200332;"Amol Som";"vamakshi78@example.com";"+918792534941";"Jammu";"2021-05-16";"1";"biryani";31;3.31
+200333;"Nandini Biswas";"sachdevarachita@example.net";"03189890924";"Kavali";"2021-08-01";"0";"continental";57;2.48
+200334;"Harinakshi Bhandari";"yatanrama@example.net";"04740604343";"Khammam";"2021-08-04";"0";"mexican";2;0.12
+200335;"Ekani Suresh";"onizacharia@example.net";"06276965860";"Mumbai";"2021-06-14";"0";"andhra";44;1.09
+200336;"Vamakshi Bhalla";"mammenpooja@example.net";"01416524345";"Vijayawada";"2021-08-22";"1";"chettinad";49;0.73
+200337;"Harita Oommen";"sai07@example.com";"09919228456";"Noida";"2021-04-25";"0";"south indian";22;3.63
+200338;"Sarthak Aggarwal";"nraman@example.com";"3917344923";"Thiruvananthapuram";"2021-04-28";"0";"andhra";74;2.67
+200339;"Harshil Bora";"nathaniel09@example.org";"1378859485";"Jehanabad";"2021-04-25";"1";"chinese";93;0.78
+200340;"Yatan Upadhyay";"gargchanakya@example.net";"03008136304";"Belgaum";"2021-03-29";"0";"chinese";100;2.72
+200341;"Patrick Mody";"bainspeter@example.org";"9822136762";"Tirunelveli";"2021-02-03";"0";"north indian";29;3.28
+200342;"Shivansh Sathe";"alka40@example.net";"1589979975";"Rohtak";"2021-11-07";"0";"biryani";98;4.69
+200343;"Imaran Balan";"gayathri36@example.org";"07267288429";"Bhiwani";"2021-04-11";"1";"north indian";43;0.8
+200344;"Fiyaz Batta";"adyanagarajan@example.net";"08841992121";"Rajkot";"2021-09-13";"1";"chettinad";53;5.0
+200345;"Gopal Kannan";"eiravati58@example.org";"+912443756401";"Kulti";"2021-09-23";"1";"south indian";15;4.63
+200346;"Bhavini Ganguly";"dmall@example.net";"08083002969";"Belgaum";"2021-08-30";"1";"fast food";94;4.53
+200347;"Jackson Sinha";"tsridhar@example.com";"+910194426229";"Bally";"2021-06-09";"0";"fast food";78;2.92
+200348;"Quincy Bhalla";"qasim31@example.org";"3830415898";"Darbhanga";"2021-11-12";"0";"north indian";13;4.82
+200349;"Amruta Dugar";"hamsini66@example.net";"02286969053";"Eluru";"2021-05-15";"1";"south indian";90;1.8
+200350;"Jagat Tiwari";"xbrar@example.net";"3272032746";"Dehradun";"2021-02-04";"0";"biryani";76;1.81
+200351;"Vamakshi Dubey";"shaurya11@example.net";"8143877332";"Allahabad";"2021-08-17";"1";"south indian";46;4.1
+200352;"Turvi Buch";"imenon@example.org";"+913565456699";"Raurkela Industrial Township";"2021-06-27";"0";"fast food";13;2.78
+200353;"Jalsa Divan";"anirudhchakraborty@example.net";"+910688929040";"Bharatpur";"2021-08-19";"1";"mexican";59;1.1
+200354;"Aarnav Ahluwalia";"madhavbanerjee@example.net";"04683555478";"Hosur";"2021-06-17";"0";"continental";62;3.16
+200355;"Mahika Sem";"ethan97@example.net";"+911016202375";"Amaravati";"2021-11-23";"1";"mexican";30;1.54
+200356;"Theodore Mitra";"pavanitaneja@example.net";"+915386312633";"Kolkata";"2021-04-27";"0";"italian";45;4.08
+200357;"Kritika Mahal";"bhattqadim@example.com";"08604689156";"Jhansi";"2021-08-09";"1";"chettinad";6;4.26
+200358;"Balhaar Dubey";"ldoshi@example.com";"+919140185634";"Khora ";"2021-06-18";"1";"mexican";75;2.68
+200359;"Manbir Chad";"luthranoah@example.com";"06786650131";"Tenali";"2021-12-15";"0";"italian";76;1.46
+200360;"Anita Ram";"sanghayatin@example.org";"+910959088000";"Jabalpur";"2021-04-11";"0";"chinese";49;1.26
+200361;"Hamsini Suresh";"kamalasami@example.org";"03324032809";"Jorhat";"2021-05-25";"1";"mexican";47;1.85
+200362;"Krisha Agate";"pooja39@example.org";"+915090869990";"Nadiad";"2021-02-17";"0";"biryani";72;3.53
+200363;"Faris Madan";"jnath@example.com";"3591221347";"Dewas";"2021-03-28";"0";"chettinad";15;2.66
+200364;"Hema Parikh";"banjeet50@example.org";"5015528527";"Kochi";"2021-02-06";"1";"italian";39;0.76
+200365;"Hritik Ramesh";"ranveer19@example.org";"01408646181";"Haridwar";"2021-09-21";"1";"chettinad";91;3.41
+200366;"Vincent Jha";"yadavturvi@example.com";"7642268373";"Indore";"2021-09-29";"0";"north indian";89;2.55
+200367;"Ladli Bhat";"naksh29@example.net";"03706587555";"Hyderabad";"2021-08-12";"0";"chettinad";39;0.95
+200368;"Mahika Gill";"desaitanish@example.org";"4805199339";"Bhilwara";"2021-10-04";"1";"fast food";65;0.87
+200369;"Vanya Karpe";"chaudhuriyahvi@example.net";"+913409987747";"Ambala";"2021-02-14";"1";"italian";24;4.33
+200370;"Omaja Srinivasan";"rchhabra@example.com";"0385869305";"Ambala";"2021-06-11";"1";"fast food";96;1.31
+200371;"Balendra Agate";"zansiraj@example.org";"+912359442525";"Proddatur";"2021-01-05";"0";"chinese";100;4.72
+200372;"Mitali Munshi";"ozajai@example.com";"+916096973846";"Aurangabad";"2021-12-12";"1";"continental";61;1.8
+200373;"Wridesh Sengupta";"fiyaz38@example.net";"05083069121";"Bokaro";"2021-11-05";"1";"north indian";24;4.75
+200374;"Vivaan Pandit";"bhanumatibala@example.org";"3752087945";"Faridabad";"2021-06-09";"1";"chettinad";63;1.52
+200375;"Saanvi Dhar";"iyengargauri@example.net";"06052093716";"Imphal";"2021-08-16";"0";"chettinad";3;2.49
+200376;"Rachana Sanghvi";"ekarajsura@example.net";"0669582176";"Hubli–Dharwad";"2021-08-29";"0";"north indian";67;0.55
+200377;"Chaitaly Dar";"baghyawati78@example.net";"+918592279353";"Meerut";"2021-04-15";"1";"continental";63;2.97
+200378;"Kavya Nadig";"xmand@example.org";"+910263004641";"Mathura";"2021-06-02";"0";"north indian";54;2.5
+200379;"Lipika Manda";"gaurangkorpal@example.org";"+918397897758";"Patna";"2021-09-05";"1";"chinese";74;4.81
+200380;"Upkaar Chatterjee";"lalvasatika@example.net";"01649790042";"Sagar";"2021-12-21";"1";"andhra";69;4.64
+200381;"Ishwar Kant";"benjaminsaraf@example.com";"05448721805";"Salem";"2021-10-29";"0";"continental";93;1.41
+200382;"Kritika Mani";"pandyaedhitha@example.net";"+919048745252";"Imphal";"2021-06-13";"1";"andhra";31;4.08
+200383;"Unni Wali";"horashivansh@example.org";"+913655098912";"Ramagundam";"2021-02-03";"0";"north indian";52;0.84
+200384;"Neha Sawhney";"zayyan64@example.com";"03503647413";"Sikar";"2021-06-02";"0";"chettinad";88;3.09
+200385;"Chakradhar Mahal";"balhaar09@example.net";"05622430114";"Bareilly";"2021-11-09";"1";"biryani";34;3.97
+200386;"Hiral Pai";"gardekavya@example.com";"02322705269";"Jammu";"2021-04-11";"0";"north indian";83;3.69
+200387;"Ridhi Sangha";"nandinisrinivas@example.com";"0616386754";"Ujjain";"2021-07-31";"1";"italian";59;2.9
+200388;"Udyati Choudhury";"bediansh@example.net";"+912221755975";"Gwalior";"2021-02-04";"0";"mexican";89;2.42
+200389;"Harish Venkatesh";"ztripathi@example.org";"+913260470352";"Ichalkaranji";"2021-12-14";"1";"south indian";46;4.83
+200390;"Chatura Ranganathan";"fdalal@example.com";"0358583904";"Hosur";"2021-07-25";"1";"andhra";40;2.62
+200391;"Chatresh Lata";"pratyushchowdhury@example.net";"+919246147369";"Karaikudi";"2021-05-26";"1";"north indian";83;0.34
+200392;"Lipika Raju";"eeshaedwin@example.net";"02887460719";"Gandhinagar";"2021-05-14";"1";"italian";75;3.48
+200393;"Rudra Jain";"taurora@example.com";"9989819981";"Allahabad";"2021-02-28";"0";"mexican";49;1.66
+200394;"Frado Sinha";"hema12@example.com";"06224022808";"Allahabad";"2021-06-14";"1";"italian";66;4.14
+200395;"David Kohli";"panchalzayyan@example.org";"7129780788";"Patiala";"2021-01-13";"1";"fast food";18;2.07
+200396;"Siya Chaudhry";"zmangat@example.org";"0746450200";"Kakinada";"2021-05-19";"0";"south indian";93;3.31
+200397;"Kamya Chana";"tanveer23@example.org";"7155156449";"Bhiwandi";"2021-02-26";"1";"biryani";47;2.98
+200398;"Vasudha Sheth";"luthrarohan@example.org";"+919848576966";"Madurai";"2021-07-29";"1";"biryani";67;4.07
+200399;"Upasna Dutta";"dubeykamya@example.org";"9662312287";"Vadodara";"2021-08-08";"0";"andhra";67;3.4
+200400;"Tejas Goyal";"leena42@example.com";"+915438422066";"Tiruppur";"2021-01-24";"0";"south indian";67;4.99
+200401;"Lajita Murty";"okunda@example.org";"8829872618";"Howrah";"2021-01-22";"1";"south indian";91;1.33
+200402;"Kamya Mann";"joshuavarma@example.com";"1962956130";"Hosur";"2021-10-20";"0";"chinese";2;0.44
+200403;"Alexander Sarna";"gangulyyochana@example.com";"+918734094886";"Bhimavaram";"2021-02-25";"1";"south indian";11;4.16
+200404;"Kamya Desai";"michael66@example.org";"+912972860844";"Thiruvananthapuram";"2021-10-26";"0";"south indian";27;2.4
+200405;"Lajita Ramakrishnan";"roydakshesh@example.net";"7008070648";"Mehsana";"2021-05-04";"1";"andhra";2;3.92
+200406;"Osha Brar";"patrickgarg@example.com";"7402438686";"North Dumdum";"2021-08-23";"1";"italian";29;3.99
+200407;"Andrew Hans";"turvi90@example.net";"00256398053";"Bidar";"2021-03-22";"0";"biryani";46;1.93
+200408;"Lakshit Kannan";"wasonanya@example.org";"+918339004943";"Agra";"2021-10-17";"0";"biryani";86;0.33
+200409;"Tripti Panchal";"siddharthbanik@example.net";"+911950878841";"Thiruvananthapuram";"2021-09-24";"1";"continental";42;4.84
+200410;"Om Bawa";"inaidu@example.org";"05840356698";"Varanasi";"2021-02-17";"0";"continental";50;3.24
+200411;"Zilmil Narayanan";"hkara@example.org";"03108386006";"Cuttack";"2021-12-14";"1";"fast food";59;2.51
+200412;"Parth Sathe";"rchhabra@example.org";"01890043555";"Gandhinagar";"2021-06-08";"0";"andhra";71;4.86
+200413;"Kritika Deep";"enarain@example.org";"07484816872";"Jalna";"2021-12-01";"0";"fast food";89;2.14
+200414;"Kai Golla";"lpalla@example.org";"8602846284";"Kota";"2021-07-20";"1";"chinese";81;2.43
+200415;"Ekalinga Bera";"zdalia@example.org";"07046124075";"Loni";"2021-01-27";"1";"south indian";42;4.23
+200416;"Sudiksha Mallick";"ssinha@example.net";"02164205022";"Vasai-Virar";"2021-05-22";"0";"north indian";50;1.06
+200417;"Oeshi Deep";"lalneelima@example.com";"+912409937024";"Ambarnath";"2021-03-24";"0";"continental";71;0.31
+200418;"Bimala Hayer";"msoman@example.com";"08509719366";"Loni";"2021-01-06";"0";"chinese";61;3.38
+200419;"Jonathan Bal";"ekapaddhar@example.org";"8123998462";"Panvel";"2021-11-17";"0";"italian";94;2.12
+200420;"Warinder Jha";"mangalleena@example.net";"0052784681";"Nizamabad";"2021-03-16";"0";"chettinad";12;0.6
+200421;"Yachana Mitter";"aarini36@example.com";"07957565551";"Junagadh";"2021-05-17";"1";"biryani";43;2.77
+200422;"Falguni Tiwari";"lkakar@example.net";"+915600075251";"Ujjain";"2021-09-02";"1";"andhra";34;4.55
+200423;"Ethan Ray";"falakjoshi@example.net";"09944519874";"Kadapa";"2021-05-29";"0";"italian";92;4.37
+200424;"Lopa Kala";"wyogi@example.net";"2227180249";"Bongaigaon";"2021-05-16";"0";"andhra";37;0.78
+200425;"Alexander Savant";"swaminathanumang@example.com";"+910618624178";"Bhagalpur";"2021-04-29";"1";"biryani";93;3.25
+200426;"Wridesh Dhillon";"rnatt@example.com";"1862750572";"Darbhanga";"2021-12-17";"0";"south indian";24;4.05
+200427;"Oni Thakkar";"amaira41@example.com";"+910966463788";"Jamalpur";"2021-04-06";"1";"continental";98;3.94
+200428;"Xavier Salvi";"bawalohit@example.org";"07798521607";"Narasaraopet";"2021-05-02";"0";"north indian";30;1.86
+200429;"Warhi Din";"gabrielbuch@example.net";"2277698706";"Pali";"2021-02-19";"0";"chettinad";10;1.54
+200430;"Advika Korpal";"noahdalal@example.org";"0916489129";"Avadi";"2021-09-21";"1";"mexican";7;4.64
+200431;"Rachita Rajagopal";"urishilla32@example.org";"+917555946696";"Singrauli";"2021-02-03";"1";"fast food";62;2.73
+200432;"Girindra Sane";"dubeyriya@example.org";"07471106305";"Arrah";"2021-02-03";"1";"fast food";77;0.28
+200433;"Eshana Mannan";"gkashyap@example.com";"03809521404";"Indore";"2021-03-09";"1";"andhra";61;0.48
+200434;"Raksha Sarna";"ckhalsa@example.com";"02024009171";"Ranchi";"2021-08-17";"0";"fast food";10;1.14
+200435;"Caleb Varma";"garareyansh@example.net";"3512575263";"Morena";"2021-12-20";"0";"north indian";82;0.45
+200436;"Tanvi Palla";"oray@example.org";"7073841560";"Aurangabad";"2021-11-12";"0";"mexican";57;2.96
+200437;"Adya Karan";"karanjeremiah@example.org";"09450581375";"Hosur";"2021-01-18";"1";"mexican";33;2.43
+200438;"Tarak Magar";"nbora@example.net";"5579059219";"Faridabad";"2021-07-20";"0";"fast food";22;0.36
+200439;"Unnati Divan";"parthsabharwal@example.com";"+911737244819";"Miryalaguda";"2021-06-28";"0";"chettinad";54;1.14
+200440;"Ekanta Pant";"ravalbhanumati@example.com";"+915120040472";"Aligarh";"2021-09-14";"0";"biryani";100;3.71
+200441;"Upadhriti Balay";"pallavimammen@example.net";"4329741776";"Eluru";"2021-03-06";"1";"chettinad";11;2.56
+200442;"Ekapad Gokhale";"zchada@example.com";"01111445601";"Navi Mumbai";"2021-01-03";"0";"fast food";50;4.03
+200443;"Nisha Ghosh";"dalajamukherjee@example.com";"02457775279";"Karaikudi";"2021-04-14";"1";"mexican";93;3.97
+200444;"Arin Sathe";"frado38@example.org";"3733931124";"Surat";"2021-01-10";"1";"chettinad";56;4.4
+200445;"Harsh Ratta";"avnitailor@example.net";"+912810650571";"New Delhi";"2021-08-09";"0";"north indian";9;0.69
+200446;"Kamya Boase";"deolonkar@example.net";"0809416123";"Bally";"2021-09-16";"0";"south indian";6;2.87
+200447;"Ikbal Bains";"bhaktaekaja@example.net";"03134908379";"Chandrapur";"2021-07-16";"0";"continental";36;0.2
+200448;"Meghana Oza";"mandgarima@example.org";"0500149378";"Maheshtala";"2021-11-09";"0";"italian";81;1.51
+200449;"Bina Krishna";"zdubey@example.org";"01385252784";"Jamalpur";"2021-03-16";"1";"chinese";87;4.07
+200450;"Urishilla Bahri";"vedika99@example.org";"+919626758648";"Madanapalle";"2021-07-11";"0";"biryani";82;4.69
+200451;"Pavani Dhar";"qtripathi@example.com";"1028720210";"Guwahati";"2021-10-07";"0";"south indian";98;0.49
+200452;"Mitali Dube";"sarineta@example.net";"07804650598";"Barasat";"2021-07-08";"1";"chinese";79;3.37
+200453;"Tristan Pall";"vsrinivas@example.org";"+910008985989";"Bardhaman";"2021-05-25";"0";"biryani";61;2.34
+200454;"Gaurang Boase";"gsarma@example.net";"1002052494";"Panipat";"2021-10-13";"1";"italian";43;1.49
+200455;"Ati Pall";"ranganathanbalendra@example.com";"2085427474";"Latur";"2021-04-13";"0";"chettinad";64;0.8
+200456;"Jatin Behl";"tdeshpande@example.org";"1050552871";"Narasaraopet";"2021-07-11";"1";"chinese";96;1.84
+200457;"Kai Gopal";"eray@example.net";"07727588205";"Satna";"2021-01-19";"0";"south indian";87;2.47
+200458;"Gautam Parsa";"darawidisha@example.com";"+919168360917";"Darbhanga";"2021-07-06";"0";"italian";88;1.44
+200459;"Jacob Sabharwal";"devansh93@example.com";"01951602419";"Belgaum";"2021-09-26";"1";"mexican";1;2.45
+200460;"Eta Sane";"fitangour@example.org";"4412292431";"Kanpur";"2021-10-27";"1";"continental";37;3.82
+200461;"Hritik Bala";"pallateerth@example.com";"09109882102";"Yamunanagar";"2021-10-22";"0";"mexican";92;0.9
+200462;"Chaaya Chowdhury";"dominic56@example.com";"00503495509";"Jabalpur";"2021-06-09";"0";"continental";55;0.33
+200463;"Anay Atwal";"yasti30@example.org";"04149127759";"Mira-Bhayandar";"2021-12-18";"1";"chinese";33;0.88
+200464;"Rayaan Pandey";"borraadvaith@example.com";"08274658836";"Coimbatore";"2021-06-01";"0";"north indian";92;0.7
+200465;"Anthony Tara";"faqidsule@example.org";"+914093111219";"Srikakulam";"2021-10-29";"1";"andhra";72;1.2
+200466;"Kai Borra";"gvala@example.org";"08845838365";"Munger";"2021-04-18";"0";"north indian";70;2.21
+200467;"Bhanumati Biswas";"jchad@example.org";"08449477259";"Rajpur Sonarpur";"2021-04-10";"0";"andhra";83;0.8
+200468;"Oeshi Behl";"chakradhar16@example.com";"8126883009";"Ambala";"2021-01-18";"1";"continental";63;1.64
+200469;"Vasatika Boase";"ishaanwason@example.org";"5626955888";"Gulbarga";"2021-06-28";"1";"south indian";46;4.65
+200470;"Divya Jayaraman";"manderyashasvi@example.com";"1784840411";"Gandhidham";"2021-02-19";"1";"chinese";51;1.56
+200471;"Ubika Menon";"schoudhry@example.org";"08190094024";"Kumbakonam";"2021-01-16";"0";"italian";46;3.91
+200472;"Anika Bhat";"qsharma@example.net";"6643044100";"Rourkela";"2021-03-03";"0";"mexican";85;4.67
+200473;"Om Ben";"chasmumpanchal@example.com";"9291180065";"Bahraich";"2021-03-18";"1";"chinese";14;2.12
+200474;"Inaya Gupta";"pingleavni@example.net";"08184551525";"Mathura";"2021-09-11";"1";"italian";6;2.4
+200475;"Vyanjana Boase";"anamika14@example.com";"08055352958";"Tumkur";"2021-02-18";"1";"chinese";65;3.02
+200476;"Vivaan Apte";"yashasvi11@example.com";"07057748559";"Nagpur";"2021-06-05";"1";"chinese";15;3.47
+200477;"Watika Bir";"zwason@example.org";"04097173626";"Nadiad";"2021-05-26";"1";"chinese";14;2.29
+200478;"Wahab Pradhan";"banikbrinda@example.org";"+912077482758";"Jorhat";"2021-11-05";"0";"chinese";94;1.13
+200479;"Adweta Wagle";"ranbir62@example.org";"3837723940";"Dewas";"2021-09-22";"0";"south indian";11;2.67
+200480;"Upkaar Bala";"bhavnabahl@example.net";"+916534749373";"South Dumdum";"2021-05-11";"1";"mexican";29;4.33
+200481;"Baljiwan Rama";"ochoudhary@example.org";"+915976541170";"Junagadh";"2021-01-19";"1";"continental";69;1.17
+200482;"Shivansh Morar";"jai21@example.org";"+910999588380";"Kamarhati";"2021-11-27";"1";"fast food";46;1.7
+200483;"Qushi Ganesh";"subramanianbakhshi@example.com";"+913544432202";"Nashik";"2021-02-14";"1";"fast food";54;1.72
+200484;"Umang Madan";"dpatil@example.com";"01419580996";"Madanapalle";"2021-12-24";"0";"chettinad";55;3.85
+200485;"Rachita Pandit";"bajwaekbal@example.org";"8587966061";"Shimla";"2021-05-12";"1";"mexican";97;3.28
+200486;"Indali Radhakrishnan";"guneet69@example.net";"04035856554";"Tumkur";"2021-01-20";"1";"andhra";72;1.45
+200487;"Rudra Bala";"vedhika26@example.com";"+918028554428";"Kirari Suleman Nagar";"2021-12-06";"0";"fast food";88;4.54
+200488;"Chaaya Mahajan";"wahabsidhu@example.net";"7033818577";"Rajahmundry";"2021-03-16";"0";"chettinad";99;2.75
+200489;"Devansh Raghavan";"esolanki@example.com";"+916188626302";"Akola";"2021-01-22";"1";"north indian";15;2.52
+200490;"Fiyaz Bora";"akshay47@example.net";"9240548064";"Aligarh";"2021-10-27";"1";"italian";19;0.24
+200491;"Jagvi Patel";"rgarg@example.net";"+912283495842";"Nadiad";"2021-08-10";"0";"fast food";61;4.95
+200492;"Nidhi Pandit";"unni06@example.org";"+915419700130";"Ambattur";"2021-12-07";"0";"continental";35;2.18
+200493;"Aadi Yohannan";"yashmallick@example.org";"00638989828";"Bongaigaon";"2021-10-04";"1";"north indian";79;2.93
+200494;"Naksh Gour";"bchoudhury@example.com";"0875014157";"Ghaziabad";"2021-04-09";"1";"fast food";5;2.83
+200495;"Pranav Brar";"zrama@example.org";"5759429762";"Bahraich";"2021-03-22";"0";"south indian";87;0.84
+200496;"Zinal Banerjee";"hegdearjun@example.net";"8513813455";"Junagadh";"2021-11-29";"0";"chettinad";45;0.73
+200497;"Ijaya Anne";"wridesh51@example.net";"9594443398";"Nagpur";"2021-03-06";"0";"andhra";93;4.89
+200498;"Charan Prakash";"nihalkannan@example.net";"2870509776";"North Dumdum";"2021-01-23";"0";"chinese";67;0.27
+200499;"Sara Bhat";"upkaar38@example.com";"+918650945571";"Ulhasnagar";"2021-12-02";"1";"chettinad";48;3.99
