@@ -2,4 +2,3 @@ streamlit
 mysql-connector-python
 pandas
 faker
-plotly
